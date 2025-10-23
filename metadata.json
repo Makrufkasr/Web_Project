@@ -1,0 +1,5 @@
+{
+  "name": "Fashion Vendor Tracker",
+  "description": "An application to manage sales, track product status (production, shipping, delivered), and monitor payments between clients and vendors for a fashion business.",
+  "requestFramePermissions": []
+}
